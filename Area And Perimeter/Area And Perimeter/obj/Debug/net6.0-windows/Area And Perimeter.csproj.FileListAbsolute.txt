@@ -1,0 +1,16 @@
+C:\Users\Isaac\source\repos\Area And Perimeter\Area And Perimeter\bin\Debug\net6.0-windows\Area And Perimeter.exe
+C:\Users\Isaac\source\repos\Area And Perimeter\Area And Perimeter\bin\Debug\net6.0-windows\Area And Perimeter.deps.json
+C:\Users\Isaac\source\repos\Area And Perimeter\Area And Perimeter\bin\Debug\net6.0-windows\Area And Perimeter.runtimeconfig.json
+C:\Users\Isaac\source\repos\Area And Perimeter\Area And Perimeter\bin\Debug\net6.0-windows\Area And Perimeter.dll
+C:\Users\Isaac\source\repos\Area And Perimeter\Area And Perimeter\bin\Debug\net6.0-windows\Area And Perimeter.pdb
+C:\Users\Isaac\source\repos\Area And Perimeter\Area And Perimeter\obj\Debug\net6.0-windows\Area_And_Perimeter.Form1.resources
+C:\Users\Isaac\source\repos\Area And Perimeter\Area And Perimeter\obj\Debug\net6.0-windows\Area And Perimeter.csproj.GenerateResource.cache
+C:\Users\Isaac\source\repos\Area And Perimeter\Area And Perimeter\obj\Debug\net6.0-windows\Area And Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\source\repos\Area And Perimeter\Area And Perimeter\obj\Debug\net6.0-windows\Area And Perimeter.AssemblyInfoInputs.cache
+C:\Users\Isaac\source\repos\Area And Perimeter\Area And Perimeter\obj\Debug\net6.0-windows\Area And Perimeter.AssemblyInfo.cs
+C:\Users\Isaac\source\repos\Area And Perimeter\Area And Perimeter\obj\Debug\net6.0-windows\Area And Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\Area And Perimeter\Area And Perimeter\obj\Debug\net6.0-windows\Area And Perimeter.dll
+C:\Users\Isaac\source\repos\Area And Perimeter\Area And Perimeter\obj\Debug\net6.0-windows\refint\Area And Perimeter.dll
+C:\Users\Isaac\source\repos\Area And Perimeter\Area And Perimeter\obj\Debug\net6.0-windows\Area And Perimeter.pdb
+C:\Users\Isaac\source\repos\Area And Perimeter\Area And Perimeter\obj\Debug\net6.0-windows\Area And Perimeter.genruntimeconfig.cache
+C:\Users\Isaac\source\repos\Area And Perimeter\Area And Perimeter\obj\Debug\net6.0-windows\ref\Area And Perimeter.dll
